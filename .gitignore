@@ -1,0 +1,7 @@
+# Raw College Scorecard data (do not track)
+data/*.zip
+data/raw/
+
+# Jupyter noise
+.ipynb_checkpoints/
+__pycache__/
